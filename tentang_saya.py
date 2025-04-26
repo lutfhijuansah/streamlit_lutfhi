@@ -1,7 +1,7 @@
 import streamlit as st
 
 def tampilkan_tentang_saya():
-    st.markdown("### Tentang Saya")
+    st.header("Tentang Saya")
 
     st.markdown("""
     Halo! Saya adalah seorang profesional dengan latar belakang 4 tahun di Industri Pangan, 
