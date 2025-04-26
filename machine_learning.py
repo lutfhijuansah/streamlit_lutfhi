@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 def tampilkan_machine_learning():
-    st.header("🤖 Prediksi Sederhana Churn")
+    st.header("Prediksi Churn Sederhana")
 
     # Load data
     @st.cache_data
